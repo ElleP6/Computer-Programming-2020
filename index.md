@@ -1,5 +1,7 @@
 ## Welcome to Elle Palepoi's Protfolio
 
+![typing test](https://github.com/ElleP6/Computer-Programming-2020/blob/gh-pages/Images/Screenshot%202020-08-27%20at%209.56.53%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/ElleP6/Computer-Programming-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
