@@ -1,4 +1,4 @@
-## Welcome to Elle Palepoi's Profolio
+## Welcome to Elle Palepoi's Protfolio
 
 You can use the [editor on GitHub](https://github.com/ElleP6/Computer-Programming-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
